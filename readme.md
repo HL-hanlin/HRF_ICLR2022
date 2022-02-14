@@ -16,19 +16,7 @@ We propose a new class of random feature methods for linearizing softmax and Gau
 
 ```bibtex
 @article{DBLP:journals/corr/abs-2110-04367,
-  author    = {Krzysztof Choromanski and
-               Haoxian Chen and
-               Han Lin and
-               Yuanzhe Ma and
-               Arijit Sehanobish and
-               Deepali Jain and
-               Michael S. Ryoo and
-               Jake Varley and
-               Andy Zeng and
-               Valerii Likhosherstov and
-               Dmitry Kalashnikov and
-               Vikas Sindhwani and
-               Adrian Weller},
+  author    = {Krzysztof Choromanski and Haoxian Chen and Han Lin and Yuanzhe Ma and Arijit Sehanobish and Deepali Jain and Michael S. Ryoo and Jake Varley and  Andy Zeng and Valerii Likhosherstov and Dmitry Kalashnikov and Vikas Sindhwani and Adrian Weller},
   title     = {Hybrid Random Features},
   journal   = {CoRR},
   volume    = {abs/2110.04367},
