@@ -1,7 +1,7 @@
 
 # Hybrid Random Features
 
-This repo contains part of the experiments in the paper [Hybrid Random Features](https://arxiv.org/abs/2110.04367)
+This repo contains coding implementation of section 4.2 language modeling experiments in our paper [Hybrid Random Features](https://arxiv.org/abs/2110.04367)
 
 
 <img src="https://github.com/HL-hanlin/HRF_ICLR2022/blob/main/img/hrf.jpg" width="800px"></img>
