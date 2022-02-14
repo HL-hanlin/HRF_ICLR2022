@@ -3,9 +3,9 @@
 
 This repo contains part of the experiments in the paper [Hybrid Random Features](https://arxiv.org/abs/2110.04367)
 
-![hrf](https://github.com/HL-hanlin/HRF_ICLR2022/tree/main/img/hrf.jpg)
+![hrf](https://github.com/HL-hanlin/HRF_ICLR2022/blob/main/img/hrf.jpg)
 
-![GKAT_description](https://github.com/HL-hanlin/GKAT/blob/main/img/gkat-figure-one.jpg)
+
 
 ## Abstract
 
